@@ -10,32 +10,25 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-defaults:
-  run:
-    shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.141.0 # Matches your local version in logs
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
-          fetch-depth: 0
+          submodules: recursive  # This pulls your Blowfish theme files
+          fetch-depth: 0         # Needed for Hugo's .Lastmod feature
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: ${{ env:HUGO_VERSION }}
-          extended: true
+          hugo-version: '0.155.2' # Matches your local high-end version
+          extended: true         # Required for Blowfish CSS processing
+
       - name: Build with Hugo
         run: hugo --minify
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
