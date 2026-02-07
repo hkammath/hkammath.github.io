@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Harsh Kammath | Data Engineer & Finance Analyst."
+title = "Home"
 
 [params]
   displayName = "EN"
@@ -17,10 +17,10 @@ title = "Harsh Kammath | Data Engineer & Finance Analyst."
 [params.author]
   name = "Harsh Kammath"
   email = "harshavinash99@gmail.com"
-  image = "img/blowfish_logo.png"
+  image = "harsh.jpg"
   imageQuality = 96
   headline = "Software Engineer | 3+ Years at TCS | MS in Business Analytics & Finance"
-  bio = "A little bit about you"
+  bio = "AI-First Software Engineer & 4x Hult Business Challenge Winner. 3+ years at TCS architecting banking systems for HSBC & US Bank. Now leveraging Business Analytics and Finance at Hult to build the next generation of intelligent financial tools."
   links = [
         { email = "harshavinash99@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -35,7 +35,7 @@ title = "Harsh Kammath | Data Engineer & Finance Analyst."
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/hkammath/" }
+     { github = "https://github.com/hkammath/" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -70,7 +70,7 @@ title = "Harsh Kammath | Data Engineer & Finance Analyst."
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/@harshavinash2941" }
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
   ]
