@@ -1,0 +1,4 @@
+---
+cascade:
+  showFeatured: true
+---
