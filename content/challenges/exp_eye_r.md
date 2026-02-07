@@ -1,6 +1,6 @@
 ---
 title: "EXP-EYE-R: 1st Place"
-date: 2026-02-07
+date: 2024-12-20
 layout: "background"
 showTableOfContents: true
 featured: true

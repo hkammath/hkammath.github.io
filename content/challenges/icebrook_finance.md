@@ -1,6 +1,6 @@
 ---
 title: "Strategic Finance Advisory - IceBrook AI: Top 3%"
-date: 2026-02-07
+date: 2025-12-20
 layout: "background"
 showTableOfContents: true
 featured: true

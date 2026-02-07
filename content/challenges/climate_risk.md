@@ -1,6 +1,6 @@
 ---
 title: "Climate Risk & ESG Automation: 1st Place Win"
-date: 2026-02-07
+date: 2025-03-01
 layout: "background"
 showTableOfContents: true
 featured: true
@@ -17,7 +17,7 @@ We worked for **Team EOLIANN**, tasked with optimizing climate risk modeling for
 ### The Challenge: From Data Chaos to Climate Clarity
 The goal was to prioritize product features that increase infrastructure climate resilience by identifying high-exposure assets. However, existing datasets from EMDAT and HANZE fell short on asset vulnerability specifics.
 
-![Map Picture](/img/eoliann_transport.jpg)
+![Map Picture](/img/eoliann_transport.jpeg)
 
 ### My Technical Solution: The Scraping Engine
 I reverse-engineered the HTML structure of the Copernicus portal to identify hidden API endpoints used for different disaster categories. 

@@ -1,6 +1,6 @@
 ---
 title: "NLP & UX Optimization - Innovation Women: 1st Place"
-date: 2026-02-07
+date: 2025-04-20
 layout: "background"
 showTableOfContents: true
 featured: true
