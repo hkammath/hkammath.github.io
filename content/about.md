@@ -29,7 +29,7 @@ layout: "simple"
 I am a **Software Engineer** and current **Dual Master’s candidate in Business Analytics and Finance** at Hult International Business School. My career is defined by building mission-critical systems—from architecting real-time liquidity pipelines for global banks to developing RAG-based AI agents that transform unstructured data into actionable insights.
 
 ### Professional Foundation: 3 Years at TCS
-Before moving to the U.S., I spent three years at **Tata Consultancy Services (TCS)** as a Systems Engineer for **SEI Investments**. I acted as a technical bridge between C-level banking requirements and data engineering for Tier-1 clients including **UBS and HSBC**.
+Before moving to the U.S., I spent three years at **Tata Consultancy Services (TCS)** as a Systems Engineer for **SEI Investments**. I acted as a technical bridge between C-level banking requirements and data engineering for Tier-1 clients including **US Bank and HSBC**.
 
 * **Architectural Modernization:** Transitioned legacy batch-processing systems to real-time **Kafka pipelines**, managing 1M+ daily transactions with 99.9% data integrity.
 * **Leadership:** Served as a Forward Deployed Lead, translating business roadmaps into technical tasks and mentoring a team of five engineers.
