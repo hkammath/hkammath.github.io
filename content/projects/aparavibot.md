@@ -10,7 +10,7 @@ showTableOfContents: true
 ### Project Overview
 Developed a high-fidelity **RAG-based AI Agent** for semantic search across unstructured healthcare and community data.
 
-![Test Picture](/img/test.jpeg)
+# ![Test Picture](/img/test.jpeg)
 
 ### Key Technical Contributions
 * **Vector Architecture**: Engineered multi-index stores in **Weaviate** to isolate sensitive healthcare documentation from public data feeds.
